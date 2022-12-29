@@ -1,0 +1,268 @@
+{
+	"videoData": {
+		"url": "18.mp4",
+		"poster": "poster.png"
+	},
+	"myphotoData": {
+		"myurl": "my_photo.jpg",
+		"myalt": "my_photo"
+	},
+	"logoData": "K.DH",
+	"gnbData": ["HOME", "ABOUT ME", "MY SKILLS", "PORTFOLIO"],
+	"mobilegnbData": ["HOME", "ABOUT ME", "MY SKILLS", "PORTFOLIO"],
+	"introduceData": {
+		"h3": "KIM DONGHYUK's\n",
+		"h3span": "portfolio",
+		"p": "항상 배우는 자세로 노력하며 발전해나가는",
+		"span": "신입 웹퍼블리셔 김동혁입니다"
+	},
+	"aboutData": {
+		"Name": "김동혁 / KIM DONGHYUK",
+		"Birth": "1994. 04. 09",
+		"Phone": "010-8742-5269",
+		"Email": "kdh01222@naver.com"
+	},
+	"aboutRightData": [
+		"구로 하이미디어디자인학원\n프론트엔드과정 수료",
+		"웹디자인기능사 자격증 보유"
+	],
+	"swiperData": [
+		{"title": "HTML", "content": "HTML5 DTD 문법 준수\n웹 접근성을 높인 Semantic Page 작성"},
+		{"title": "CSS", "content": "CSS 전처리 기능프로그래밍(SASS)"},
+		{"title": "ReactJS", "content": "프론트엔드 JavaScript 라이브러리 작성"},
+		{"title": "jQuery", "content": "JavaScript 플러그인 활용 및 구현(jQuery)\nParallax 웹 페이지 구현\n외부 API 구현(Google Map, Carousel)"},
+		{"title": "SASS", "content": "IR 기법을 이용한 스타일 작성\n반응형 웹 페이지 스타일 작성\n모바일 페이지 스타일 작성"},
+		{"title": "Illustrator"},
+		{"title": "Photoshop"},
+		{"title": "Figma"},
+		{"title": "Adobe xd"}	
+	],
+	"rightmenuData": [
+		{"link": "https://github.com/kdh01222", "classname": "github"},
+		{"link": "https://codepen.io/kdh01222", "classname": "codepen"},
+		{"link": "https://www.figma.com/@kdh01222", "classname": "figma"}
+	],
+
+
+	"photoData": {
+		"url": "photo.png",
+		"alt": "photo"
+	},
+	"profileData": [
+		{"subtitle": "Name", "p": "김동혁"},
+		{"subtitle": "Age", "p": "1994.04.09"},
+		{"subtitle": "Address", "p": "서울시 구로구 오류동"},
+		{"subtitle": "Phone", "p": "010.8742.5269"},
+		{"subtitle": "Email", "p": "kdh01222@naver.com"}
+	],
+	"skillData":  [
+		{
+			"p": "HTML",
+			"span1": "HTML5 DTD 문법 준수",
+			"span2": "웹 접근성을높인 Semantic Page 작성"
+		},
+		{
+			"p": "CSS",
+			"span1": "CSS 전처리 기능 프로그래밍(SASS)"
+		},
+		{
+			"p": "SASS",
+			"span1": "IR 기법을 이용한 스타일 작성",
+			"span2": "반응형 웹 페이지와 모바일 페이지 스타일 작성",
+			"span3": "CSS3 Animation 구현"
+		},
+		{
+			"p": "jQuery",
+			"span1": "JavaScript 플러그인 활용 및 구현(jQuery)",
+			"span2": "Parallax 웹 페이지 구현",
+			"span3": "외부 API 구현(Google Map, Carousel)"
+		},
+		{
+			"p": "Git",
+			"span1": "GitHub를 이용한 Git 시스템 협업 가능"
+		}
+	],
+
+	"specialityData": [
+		{
+			"url": "spec1_m.jpg",
+			"alt": "spec1_m",
+			"span1": "HTML5 DTD 문법을 준수하고 웹 접근성을",
+			"span2": "높인 Semantic Page 작성합니다.",
+			"span3": "CSS를 이용해 IR 기법과 반응형 웹 페이지,",
+			"span4": "모바일 페이지 스타일을 작성할 수 있으며",
+			"span5": "다양한 CSS3 Animation을 구현합니다.",
+			"p1": "STRUCTURE",
+			"p2": "HTML / CSS"
+		},
+		{
+			"url": "spec2_m.jpg",
+			"alt": "spec2_m",
+			"span1": "GitHub를 이용하여",
+			"span2": "Git 시스템 협업이 가능합니다.",
+			"p1": "SCM",
+			"p2": "Github"
+		},
+		{
+			"url": "spec3_m.jpg",
+			"alt": "spec3_m",
+			"span1": "JavaScript 플러그인 활용 및",
+			"span2": "Parallax 웹 페이지를 구현합니다.",
+			"span3": "사용자 인터페이스 구현을 위한",
+			"span4": "JavaScript 라이브러리가 가능합니다.",
+			"p1": "INTERACTION",
+			"p2": "jQuery / JavaScript"
+		}
+	],
+
+	"projectData": {
+		"visitbusan": {
+			"id": "project1",
+			"title": {
+				"h3": "VISIT BUSAN",
+				"span": "비짓 부산"
+			},
+			"content": {
+				"site": "VISIT BUSAN",
+				"date": "3Weeks",
+				"type": "Desktop / Mobile",
+				"category": "Tour Guide Homepage"
+			},
+			"thumbnail": {
+				"image": "thumb1.png",
+				"alt": "Busan"
+			},
+			"overview": {
+				"renewal": "brand Strategy, UI / UX",
+				"structure": "HTML/CSS",
+				"interactive": "jQuery/JavaScript",
+				"scm": "Github"
+			},
+			"fixedarea": "fixed_area",
+			"link": {
+				"github": "https://kdh01222.github.io/portfolio1st/",
+				"classname": "project1",
+				"figma": "https://www.figma.com/community/file/1185034753365675574",
+				"figmaclassname": "design"
+			},
+			"pcphoto": {
+				"pcimage": "project1_pc_modal.png",
+				"pcalt": "pc modal"
+			},
+			"sub": {
+				"subid": "pc1",
+				"mobid": "mo1"
+			},
+			"mobphoto": {
+				"mobileimage": [
+					{"mobimage": "project_m1.png", "mobalt": "project_m1"},
+					{"mobimage": "project_m2.png", "mobalt": "project_m2"},
+					{"mobimage": "project_m3.png", "mobalt": "project_m3"}
+				]
+			}
+		},
+		"morningglory": {
+			"id": "project2",
+			"title": {
+				"h3": "MORNINGGLORY",
+				"span": "모닝글로리"
+			},
+			"content": {
+				"site": "MORNINGGLORY",
+				"date": "3Weeks",
+				"type": "Desktop / Mobile",
+				"category": "Brand introduction"
+			},
+			"thumbnail": {
+				"image": "thumb2.png",
+				"alt": "morning"
+			},
+			"overview": {
+				"renewal": "brand Strategy, UI / UX",
+				"structure": "HTML/CSS",
+				"interactive": "jQuery",
+				"scm": "Github"
+			},
+			"fixedarea": "fixed_area2",
+			"link": {
+				"github": "https://kdh01222.github.io/portfolio2nd/",
+				"classname": "project2"
+			},
+			"pcphoto": {
+				"pcimage": "project2_pc_modal.png",
+				"pcalt": "pc modal"
+			},
+			"sub": {
+				"subid": "pc2",
+				"mobid": "mo2"
+			},
+			"mobphoto": {
+				"mobileimage": [
+					{"mobimage": "project2_m1.png", "mobalt": "project2_m1"},
+					{"mobimage": "project2_m2.png", "mobalt": "project2_m2"},
+					{"mobimage": "project2_m3.png", "mobalt": "project2_m3"}
+				]
+			}
+		},
+		"wylie": {
+			"id": "project3",
+			"title": {
+				"h3": "WYLIE",
+				"span": "와일리"
+			},
+			"content": {
+				"site": "WYLIE",
+				"date": "1Weeks",
+				"type": "Desktop / Mobile",
+				"category": "Brand introduction"
+			},
+			"thumbnail": {
+				"image": "thumb3.png",
+				"alt": "WYLIE"
+			},
+			"overview": {
+				"renewal": "brand Strategy, UI / UX",
+				"structure": "HTML/CSS",
+				"interactive": "jQuery",
+				"scm": "Github"
+			},
+			"fixedarea": "fixed_area3",
+			"link": {
+				"github": "https://kdh01222.github.io/portfolio3rd/",
+				"classname": "project3"
+			},
+			"pcphoto": {
+				"pcimage": "project3_pc_modal.png",
+				"pcalt": "pc modal"
+			},
+			"sub": {
+				"subid": "pc3",
+				"mobid": "mo3"
+			},
+			"mobphoto": {
+				"mobileimage": [
+					{"mobimage": "project3_m1.png", "mobalt": "project3_m1"},
+					{"mobimage": "project3_m2.png", "mobalt": "project3_m2"},
+					{"mobimage": "project3_m3.png", "mobalt": "project3_m3"}
+				]
+			}
+		}
+	},
+
+	"footerData": {
+		"ftvideoData": {
+			"url": "ft_video.mp4"
+		},
+		"fttextData": [
+			{"span": "PHONE", "p": "010-8742-5269"},
+			{"span": "E-MAIL", "p": "kdh01222@naver.com"}
+		],
+		"ftlinkData": [
+			{"link": "https://codepen.io/kdh01222"},
+			{"link": "https://github.com/kdh01222"},
+			{"link": "https://www.figma.com/@kdh01222"},
+			{"link": "https://www.instagram.com/ehdclal1004"}
+		]	
+	}
+	
+}
