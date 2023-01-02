@@ -11,7 +11,7 @@
 	"gnbData": ["HOME", "ABOUT ME", "MY SKILLS", "PORTFOLIO"],
 	"mobilegnbData": ["HOME", "ABOUT ME", "MY SKILLS", "PORTFOLIO"],
 	"introduceData": {
-		"h3": "KIM DONGHYUK's\n",
+		"h3": "KIM DONGHYUK's",
 		"h3span": "portfolio",
 		"p": "항상 배우는 자세로 노력하며 발전해나가는",
 		"span": "신입 웹퍼블리셔 김동혁입니다"
@@ -263,6 +263,6 @@
 			{"link": "https://www.figma.com/@kdh01222"},
 			{"link": "https://www.instagram.com/ehdclal1004"}
 		]	
-	}
-	
+	},
+	"homepage": "https://kdh01222.github.io/react_portfolio/"
 }
